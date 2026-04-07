@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DutchXilinxGuy
-- 👀 I’m interested in FPGA
-- 🌱 I’m currently learning Python / HPC
-- 💞️ I’m looking to collaborate on FPGA
+- 👀 I’m interested in Edge AI
+- 🌱 I’m currently learning about LLMs
+- 💞️ I’m looking to collaborate on Embedded AI acceleration
 - 📫 How to reach me ...
 
 <!---
